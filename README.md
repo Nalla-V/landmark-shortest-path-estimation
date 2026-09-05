@@ -198,3 +198,8 @@ Outputs per dataset: `edges.parquet`, `node_map.json`, `landmarks.json`,
 - Hop-exclusion was tested only at h_min ∈ {0, 1}. Larger thresholds might matter more on
   the high-clustering graphs, where redundancy is worst.
 
+## Contributor
+
+- Nallathambi Vethiappan
+- Godwin
+
